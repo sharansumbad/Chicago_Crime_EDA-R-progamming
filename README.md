@@ -1,5 +1,7 @@
 # Chicago-Crimes-Data-Analysis
 Exploratory Analysis of Crimes in Chicago
+
+
 ## Team members: 
 Ajinkya Pawale (ajpawale@iu.edu) , Anuhya Sankranti (ansankra@iu.edu) , Sharan Sumbad (ssumbad@iu.edu) , Shivani Vogiral (svogiral@iu.edu)
 
